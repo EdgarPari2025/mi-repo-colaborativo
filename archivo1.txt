@@ -8,4 +8,7 @@ CAMBIO REALIZADO EN LOCAL
 
 CAMBIO REALIZADO EN GITHUB EN LA NUBE (RAMA MASTER)
 
-Línea añadida en local en la tarea.
+
+
+Línea añadida desde GitHub en la tarea.
+
